@@ -23,10 +23,10 @@ Install my-project with npm
 
     
  ## Screenshots 📜
- 
-![WhatsApp Image 2023-08-09 at 08 49 31](https://github.com/harshalmm143/Interest_Calculator/assets/102899317/e251794f-7196-43e1-b919-2f8f78473806)
- 
- ![WhatsApp Image 2023-08-09 at 08 49 32](https://github.com/harshalmm143/Interest_Calculator/assets/102899317/fb06c0b5-4fa7-4bef-9627-3a2e69114006)
+<img src='https://github.com/harshalmm143/Interest_Calculator/assets/102899317/e251794f-7196-43e1-b919-2f8f78473806' width="200" height="400" />
+
+<img src='https://github.com/harshalmm143/Interest_Calculator/assets/102899317/fb06c0b5-4fa7-4bef-9627-3a2e69114006' width="200" height="400" />
+
  
  ## Tech Stack
 **React Native using Expo**
