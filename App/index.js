@@ -47,6 +47,8 @@ export default function App() {
       <Button title="Calculate Interest" onPress={calculateInterest} />
       <Text style={styles.resultText}>{result}</Text>
       <Text>Hello My Name Harshal</Text>
+      <Text>Hello My Name Harshal Mahajan</Text>
+
     </View>
   );
 }
